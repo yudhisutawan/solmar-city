@@ -1,2 +1,5 @@
+# Generated output and installed dependencies
+# are excluded to keep build artifacts and
+# third-party packages out of version control.
 out/
 node_modules/
